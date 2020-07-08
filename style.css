@@ -50,20 +50,14 @@ hr {
     border-radius: 50px;
     margin-bottom: 50px;
 }
-.text-center {
-    text-align: center!important;
+
+ .categories-card{
+    box-shadow:10px 10px 40px gray;
+    border-radius: 8px;
+    background-color: white;
 }
 
- .row {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
-} 
 
-/* .img{
-    margin: auto;
-    widows: 100%; 
-} */
+footer{
+    text-align: center;
+}
