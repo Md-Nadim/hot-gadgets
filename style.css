@@ -1,0 +1,69 @@
+p{
+    color: gray;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-indicators li.active {
+    width: 35px;
+    height: 10px;
+    border-radius: 8px;
+    background-image: linear-gradient(145deg,#f1c40f,#e67e22);
+}
+
+.carousel-indicators .active {
+    opacity: 1;
+}
+.carousel-indicators li {
+    width: 20px;
+    height: 8px;
+    border: none;
+    border-radius: 4px;
+    background-color: #CECECE;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-buttom{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 25px;
+    cursor: pointer;
+}
+
+.text-right {
+    color:#ffc107;
+}
+.phone{
+    text-align: center;
+}
+hr {
+    width: 130px;
+    background-image: linear-gradient(145deg,#f1c40f,#e67e22);
+    height: 10px;
+    border: none;
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+.text-center {
+    text-align: center!important;
+}
+
+ .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+} 
+
+/* .img{
+    margin: auto;
+    widows: 100%; 
+} */
